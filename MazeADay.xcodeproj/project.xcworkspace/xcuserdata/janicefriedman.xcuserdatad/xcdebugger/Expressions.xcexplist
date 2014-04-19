@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "VertexTransform::operator()(int, btVector3&amp;, btVector3 const&amp;) const:BaseTextViewObject.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "to">
+            </PersistentString>
+            <PersistentString
+               value = "from">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ZipFileResourceLoader::extract():ZipFileResourceLoader.mm">
+      </ContextState>
+      <ContextState
+         contextName = "LoadGameState::update(void*, float):LoadGameState.mm">
+      </ContextState>
+      <ContextState
+         contextName = "Path::getWorldTransform() const:Path.mm">
+      </ContextState>
+      <ContextState
+         contextName = "ZipFileResourceLoader::close():ZipFileResourceLoader.mm">
+      </ContextState>
+      <ContextState
+         contextName = "ZipFileResourceLoader::open(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt;):ZipFileResourceLoader.mm">
+      </ContextState>
+      <ContextState
+         contextName = "btVector3::rotate(btVector3 const&amp;, float) const [inlined]:btTransform.h">
+      </ContextState>
+      <ContextState
+         contextName = "BaseEntity::rotate(btVector3 const&amp;, btVector3 const&amp;, float):BaseEntity.mm">
+      </ContextState>
+      <ContextState
+         contextName = "___ZN17FacebookSingleton9customizeEv_block_invoke:FacebookSingleton.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_uPlayerFBID">
+            </PersistentString>
+            <PersistentString
+               value = "this">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "fill_fopen64_filefunc:ioapi.c">
+      </ContextState>
+      <ContextState
+         contextName = "jliImageFlip(JLIimage*):ImageFileEditor.mm">
+      </ContextState>
+      <ContextState
+         contextName = "GhostEntity::enableDebugDraw(bool):GhostEntity.mm">
+      </ContextState>
+      <ContextState
+         contextName = "main:main.m">
+      </ContextState>
+      <ContextState
+         contextName = "JLIstream::open(char const*):ZipFileResourceLoader.h">
+      </ContextState>
+      <ContextState
+         contextName = "jliImageLoadTGA(JLIimage*, JLIstream*):ImageFileEditor.mm">
+      </ContextState>
+      <ContextState
+         contextName = "Path::setNextWaypoint():Path.mm">
+      </ContextState>
+      <ContextState
+         contextName = "Path::getWayPoint(unsigned int) const:Path.mm">
+      </ContextState>
+      <ContextState
+         contextName = "BaseEntitySteeringBehavior::FollowPath():BaseEntitySteeringBehavior.mm">
+      </ContextState>
+      <ContextState
+         contextName = "WorldPhysics::update():WorldPhysics.mm">
+      </ContextState>
+      <ContextState
+         contextName = "BaseTextureBehavior::updateAction(btCollisionWorld*, float):BaseTextureBehavior.mm">
+      </ContextState>
+      <ContextState
+         contextName = "png_handle_unknown:pngrutil.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "png_ptr-&gt;chunk_name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RotateGlobalSpace(btTransform const&amp;, btMatrix3x3 const&amp;, btVector3 const&amp;) [inlined]:BaseEntity.mm">
+      </ContextState>
+      <ContextState
+         contextName = "GLDebugDrawer::drawLine(btVector3 const&amp;, btVector3 const&amp;, btVector3 const&amp;, btVector3 const&amp;):GLDebugDrawer.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "pCurrentCamera">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "btCollisionWorld::updateAabbs():btCollisionWorld.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_collisionObjects">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Normalise(XYZ*):BaseEntity.mm">
+      </ContextState>
+      <ContextState
+         contextName = "BaseEntity::rotate(btQuaternion const&amp;, btVector3 const&amp;):BaseEntity.mm">
+      </ContextState>
+      <ContextState
+         contextName = "BaseEntity::getWorldTransform() const:BaseEntity.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_worldTransform">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DebugGameState::update(void*, float):DebugGameState.mm">
+      </ContextState>
+      <ContextState
+         contextName = "TextureFactory::ctor(TextureFactoryInfo*):TextureFactory.mm">
+      </ContextState>
+      <ContextState
+         contextName = "BaseCamera::adjustTransform(float, float):BaseCamera.mm">
+      </ContextState>
+      <ContextState
+         contextName = "SteeringEntity::getFolowPathInfo() [inlined]:SteeringEntity.h">
+      </ContextState>
+      <ContextState
+         contextName = "___ZN17FacebookSingleton9customizeEtt_block_invoke:FacebookSingleton.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_LastName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ZipFileResourceLoader::parseStream(JLIstream*):ZipFileResourceLoader.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "*object">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BaseEntity::setWorldTransform(btTransform const&amp;):BaseEntity.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "m_worldTransform">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BaseTextViewObject::setTextKey(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt; &gt; const&amp;, LocalizedTextViewObjectType):BaseTextViewObject.mm">
+      </ContextState>
+      <ContextState
+         contextName = "Path::isFinished() const:Path.mm">
+      </ContextState>
+      <ContextState
+         contextName = "btCollisionWorld::updateSingleAabb(btCollisionObject*):btCollisionWorld.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "btCollisionWorld::getDebugDrawer():btCollisionWorld.h">
+      </ContextState>
+      <ContextState
+         contextName = "BaseTextureBehavior::getLeftOfSubTextureOffset() const:BaseTextureBehavior.mm">
+      </ContextState>
+      <ContextState
+         contextName = "ArbitraryRotate2(XYZ, double, XYZ, XYZ):BaseEntity.mm">
+      </ContextState>
+      <ContextState
+         contextName = "DebugGameState::enter(void*):DebugGameState.mm">
+      </ContextState>
+      <ContextState
+         contextName = "RigidEntity::enableDebugDraw(bool):RigidEntity.mm">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

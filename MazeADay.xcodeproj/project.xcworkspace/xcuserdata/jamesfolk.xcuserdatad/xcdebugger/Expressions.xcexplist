@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "updatePlanes(btMatrix3x3 const&amp;, btVector3 const&amp;, btVector3 const&amp;, float, _GLKMatrix4 const&amp;, btVector3*, float*, btVector3*, btVector3*, btVector3*, btVector3*):BaseCamera.mm">
+      </ContextState>
+      <ContextState
+         contextName = "BaseCamera::debugDraw(btIDebugDraw*):BaseCamera.mm">
+      </ContextState>
+      <ContextState
+         contextName = "BaseCamera::updateProjection():BaseCamera.mm">
+      </ContextState>
+      <ContextState
+         contextName = "BaseCamera::getProjection() const:BaseCamera.mm">
+      </ContextState>
+      <ContextState
+         contextName = "BaseCamera::getNear() const [inlined]:BaseCamera.h">
+      </ContextState>
+      <ContextState
+         contextName = "BaseTextViewObject::render():BaseTextViewObject.mm">
+      </ContextState>
+      <ContextState
+         contextName = "BaseCamera::setRotation(btQuaternion const&amp;):BaseCamera.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "this-&gt;m_UpdatePlanes">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "updatePlanes(btMatrix3x3 const&amp;, btVector3 const&amp;, btVector3 const&amp;, float, _GLKMatrix4 const&amp;, btVector3*, float*):BaseCamera.mm">
+      </ContextState>
+      <ContextState
+         contextName = "BaseEntity::setCollisionResponseBehavior(long long):BaseEntity.mm">
+      </ContextState>
+      <ContextState
+         contextName = "BaseCamera::cull(btDbvtBroadphase*):BaseCamera.mm">
+      </ContextState>
+      <ContextState
+         contextName = "makeLookAt(float, float, float, float, float, float, float, float, float):UtilityFunctions.h">
+      </ContextState>
+      <ContextState
+         contextName = "ComputeWorldRay(int, int, _GLKMatrix4 const&amp;):BaseCamera.mm">
+      </ContextState>
+      <ContextState
+         contextName = "updatePlanes(btMatrix3x3 const&amp;, btVector3 const&amp;, btVector3 const&amp;, float, _GLKMatrix4 const&amp;, btVector3*, float*, btVector3&amp;, btVector3&amp;, btVector3&amp;, btVector3&amp;):BaseCamera.mm">
+      </ContextState>
+      <ContextState
+         contextName = "BaseCamera::getFar() const [inlined]:BaseCamera.h">
+      </ContextState>
+      <ContextState
+         contextName = "BaseCameraInfo::BaseCameraInfo(BaseCameraInfo const&amp;):CameraFactoryIncludes.h">
+      </ContextState>
+      <ContextState
+         contextName = "BaseEntity::getHeadingVector() const:BaseEntity.h">
+      </ContextState>
+      <ContextState
+         contextName = "makeFrustum(float, float, float, float, float, float):UtilityFunctions.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "t">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "getGLKMatrix4(btTransform const&amp;):UtilityFunctions.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "_out">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "btTransform::setFromOpenGLMatrix(float const*):btTransform.h">
+      </ContextState>
+      <ContextState
+         contextName = "BaseEntity::handleCollide(BaseEntity*, btManifoldPoint const&amp;):BaseEntity.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "0x1461cab0">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "BaseEntity::render(BaseCamera*):BaseEntity.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "tt">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

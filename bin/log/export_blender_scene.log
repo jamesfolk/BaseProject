@@ -1,0 +1,44 @@
+found bundled python: /Users/jamesfolk/Dropbox/DEV/Libraries/iOSGames/BaseProject/../../Blender/blender.app/Contents/MacOS/2.68/python
+read blend: /Users/jamesfolk/Dropbox/DEV/Libraries/iOSGames/BaseProject/assets/blender/GGJ.blend
+Info: Saved packed file to: /Users/jamesfolk/Dropbox/DEV/Libraries/iOSGames/BaseProject/assets/blender/textures/ConeTexture1.png
+Info: Saved packed file to: /Users/jamesfolk/Dropbox/DEV/Libraries/iOSGames/BaseProject/assets/blender/textures/Cubetexture1.png
+Info: Saved packed file to: /Users/jamesfolk/Dropbox/DEV/Libraries/iOSGames/BaseProject/assets/blender/textures/Floor.png
+Info: Saved packed file to: /Users/jamesfolk/Dropbox/DEV/Libraries/iOSGames/BaseProject/assets/blender/textures/SphereTexture.png
+Info: Packed 5 files
+There are 6 objects
+TODO: write export_camera
+There are 3 materials
+TODO: write export_surface
+TODO: write export_surface
+TODO: write export_surface
+Info: Saved packed file to: /Users/jamesfolk/Dropbox/DEV/Libraries/iOSGames/BaseProject/assets/blender/textures/ConeTexture1.png
+Info: Saved packed file to: /Users/jamesfolk/Dropbox/DEV/Libraries/iOSGames/BaseProject/assets/blender/textures/Cubetexture1.png
+Info: Saved packed file to: /Users/jamesfolk/Dropbox/DEV/Libraries/iOSGames/BaseProject/assets/blender/textures/Floor.png
+Info: Saved packed file to: /Users/jamesfolk/Dropbox/DEV/Libraries/iOSGames/BaseProject/assets/blender/textures/SphereTexture.png
+
+There are 5 images
+Info: Packed 5 files
+
+uncompressing directory: /Users/jamesfolk/Dropbox/DEV/Libraries/iOSGames/BaseProject/assets/blender/../scenes/ggj
+compressed directory: /Users/jamesfolk/Dropbox/DEV/Libraries/iOSGames/BaseProject/assets/blender/../scenes/ggj.zip
+File Name                                             Modified             Size
+curves/beziercurve                             2014-01-25 15:54:57          854
+curves/bezierrail                              2014-01-25 15:54:57          377
+curves/camerapath                              2014-01-25 15:54:57          674
+images/bricks.pvr                              2014-01-25 15:55:00       174900
+images/conetexture1.pvr                        2014-02-05 11:57:35       699188
+images/cubetexture1.pvr                        2014-02-05 11:57:45       699188
+images/cubetexture1_002.pvr                    2014-01-25 15:10:10       699188
+images/floor.pvr                               2014-02-05 11:57:55       699188
+images/floor_001.pvr                           2014-01-25 15:16:19       699188
+images/spheretexture.pvr                       2014-02-05 11:57:57       174900
+images/walltexture.pvr                         2014-02-05 11:58:07       699188
+meshs/cube                                     2014-02-05 11:57:25         2973
+meshs/object1                                  2014-01-25 16:42:59        19800
+meshs/object2                                  2014-01-25 16:42:59         3084
+meshs/planeobject                              2014-02-05 11:57:25         7734
+meshs/raycone                                  2014-02-05 11:57:25        31316
+meshs/skybox                                   2014-02-05 11:57:25         3109
+meshs/sphere                                   2014-02-05 11:57:25        19143
+
+Blender quit

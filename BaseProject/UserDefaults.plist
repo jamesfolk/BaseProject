@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>board_size</key>
+	<integer>0</integer>
+	<key>seed</key>
+	<integer>0</integer>
+	<key>player_x</key>
+	<integer>0</integer>
+	<key>player_y</key>
+	<real>3.5</real>
+	<key>player_z</key>
+	<string></string>
+	<key>board completed - 1</key>
+	<false/>
+	<key>board completed - 2</key>
+	<false/>
+	<key>board completed - 3</key>
+	<false/>
+	<key>board completed - 4</key>
+	<false/>
+	<key>board completed - 5</key>
+	<false/>
+	<key>board completed - 6</key>
+	<false/>
+	<key>board completed - 7</key>
+	<false/>
+	<key>board completed - 8</key>
+	<false/>
+	<key>board completed - 9</key>
+	<false/>
+	<key>board completed - 10</key>
+	<false/>
+	<key>board completed - 11</key>
+	<false/>
+	<key>board completed - 12</key>
+	<false/>
+	<key>board completed - 13</key>
+	<false/>
+	<key>board completed - 14</key>
+	<false/>
+	<key>board completed - 15</key>
+	<false/>
+	<key>board completed - 16</key>
+	<false/>
+	<key>board completed - 17</key>
+	<false/>
+	<key>board completed - 18</key>
+	<false/>
+	<key>board completed - 19</key>
+	<false/>
+	<key>board completed - 20</key>
+	<false/>
+	<key>board completed - 21</key>
+	<false/>
+	<key>board completed - 22</key>
+	<false/>
+	<key>board completed - 23</key>
+	<false/>
+	<key>board completed - 24</key>
+	<false/>
+	<key>board completed - 25</key>
+	<false/>
+	<key>board completed - 26</key>
+	<false/>
+	<key>board completed - 27</key>
+	<false/>
+	<key>board completed - 28</key>
+	<false/>
+	<key>board completed - 29</key>
+	<false/>
+	<key>board completed - 30</key>
+	<false/>
+	<key>board completed - 31</key>
+	<false/>
+	<key>board completed - 32</key>
+	<false/>
+	<key>board completed - 33</key>
+	<false/>
+	<key>board completed - 34</key>
+	<false/>
+	<key>board completed - 35</key>
+	<false/>
+	<key>board completed - 36</key>
+	<false/>
+	<key>board completed - 37</key>
+	<false/>
+	<key>board completed - 38</key>
+	<false/>
+	<key>board completed - 39</key>
+	<false/>
+	<key>board completed - 40</key>
+	<false/>
+	<key>board completed - 41</key>
+	<false/>
+	<key>board completed - 42</key>
+	<false/>
+	<key>board completed - 43</key>
+	<false/>
+	<key>board completed - 44</key>
+	<false/>
+	<key>board completed - 45</key>
+	<false/>
+	<key>board completed - 46</key>
+	<false/>
+</dict>
+</plist>

@@ -8,7 +8,28 @@
 
 #import <UIKit/UIKit.h>
 #import <GLKit/GLKit.h>
+#import "DebugViewController.h"
+#import "MainViewController.h"
+#import "GlobalGameJamViewController.h"
 
-@interface ViewController : GLKViewController
+@interface ViewController : GLKViewController <UIAccelerometerDelegate>
+{
+    DebugViewController *debugViewController;
+    MainViewController *mainViewController;
+    GlobalGameJamViewController *globalGameJamViewController;
+}
 
+-(EAGLContext*)getContext;
+
+-(void)setDebugViewController:(DebugViewController*)controller;
+-(DebugViewController*)getDebugViewController;
+
+-(void)setMainViewController:(MainViewController*)controller;
+-(MainViewController*)getMainViewController;
+
+-(void)setGlobalGameJamViewController:(GlobalGameJamViewController*)controller;
+-(GlobalGameJamViewController*)getGlobalGameJamViewController;
+
+-(void)enableDebugDraw:(BOOL)enable;
+-(void)setGameStateEnum:(int)val;
 @end
